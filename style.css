@@ -1,0 +1,29 @@
+table{
+    background-color: rgba(201, 201, 201, 0.582);
+    font-family: Arial, Helvetica, sans-serif;
+}
+.coluna1{
+    border-top: solid;
+    border-color: rgb(90, 90, 90);
+    background-color: rgb(139, 139, 139);
+}
+.coluna2{
+    border-top: solid;
+    border-color: rgb(108, 139, 110);
+    background-color: rgb(145, 184, 149);
+}
+.coluna3{
+    border-top: solid;
+    border-color: rgb(105, 125, 134);
+    background-color: rgb(151, 172, 192);
+}
+.coluna4{
+    border-top: solid;
+    border-color: rgb(133, 94, 151);
+    background-color: rgb(163, 128, 196);
+}
+.coluna5{
+    border-top: solid;
+    border-color: rgb(196, 118, 16);
+    background-color: rgb(224, 152, 69);
+}
